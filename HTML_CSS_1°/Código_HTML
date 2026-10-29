@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haras Ladymarry</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <header>
+        <a href="#" class="logo"> Lary Equestrian </a>
+         <nav class="navbar">
+            <ul>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#atletas">Atletas</a></li>
+                <li><a href="#curiosidades">Curiosidade</a></li>
+                <li><a href="#map">Mapa</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+         </nav>
+    </header>
+    <main>
+    <section id="hero"></section>
+    <section id="about">
+        <h1>Sobre o Lary Equestrian</h1>
+        <p>O hipismo é um esporte que une técnica, equilíbrio
+             e parceria entre cavalo e cavaleiro. 
+             Mais do que uma competição, é uma atividade que exige
+              dedicação, confiança e respeito pelo animal. 
+              Entre as principais modalidades estão o salto, 
+              o adestramento e o concurso completo de equitação,
+               cada uma com seus próprios desafios e características.
+               No Larry Equestrian, celebramos a paixão pelo mundo equestre,
+                valorizando a elegância, o desempenho e a conexão especial
+             entre cavalo e cavaleiro.</p>
+
+        <p>No Larry Equestrian, você encontra informações, curiosidades
+             e conteúdos sobre o fascinante mundo do hipismo. Descubra
+             mais sobre as modalidades do esporte, os cavalos,
+             os equipamentos, as competições e a relação entre cavalo
+             e cavaleiro. Nosso objetivo é reunir conteúdos 
+             interessantes e acessíveis para quem já ama o 
+             hipismo ou quer conhecer melhor esse universo. </p>
+    </section>
+    <section id="atletas">
+        <h1>Atletas de destaque</h1> 
+        <img src="img/1.jpg">
+        <p> Rodrigo Pessoa - Major Tom </p>
+        <img src="img/2.jpg">
+        <p> Stephan Barcha - Chevaux Primavera Imperio Egipcio</p>
+        <img src="img/3.jpg">
+        <p> Yuri Mansur - Miss Blue </p>
+        <img src="img/4.jpg">
+        <p> Marlon Zanotelli - Sirene de la Motte </p>
+        <img src="img/5.jpg">
+        <p> Luiza Almeida - Samba </p>
+    </section>
+    <section id="curiosidades">
+        <img src="img/6.jpg">
+        <h1>Curiosidades</h1>
+        <h3>Aqui você encontrará curiosidades sobre o mundo do hipismo.</h3>
+        <p>É um esporte olímpico centenário <br>
+O hipismo faz parte dos Jogos Olímpicos modernos desde 1900, sendo uma das modalidades mais tradicionais do programa olímpico. <br>
+
+ Cavalo e cavaleiro formam uma equipe <br>
+
+No hipismo, não basta o atleta ter técnica. A sintonia, confiança e comunicação entre cavalo e cavaleiro são fundamentais para o desempenho. <br>
+
+ Homens e mulheres competem juntos <br>
+
+O hipismo é um dos poucos esportes olímpicos em que homens e mulheres competem diretamente uns contra os outros, nas mesmas provas. <br>
+
+ O salto exige precisão, não apenas força <br>
+
+Um cavalo pode saltar obstáculos impressionantes, mas o sucesso depende de uma combinação de velocidade, equilíbrio, distância, impulsão e confiança entre o conjunto. <br>
+
+ Pequenos sinais fazem uma grande diferença
+No adestramento, movimentos quase imperceptíveis das mãos, pernas, postura e peso do cavaleiro podem transmitir comandos ao cavalo.</p>
+
+ <h3>Curiosidades com um toque brasileiro</h3>
+
+<p> O Brasil tem tradição olímpica no hipismo <br>
+
+O país possui uma longa história nas competições internacionais, especialmente no salto, com conjuntos brasileiros conquistando resultados expressivos em Jogos Olímpicos, Pan-Americanos e campeonatos mundiais. <br>
+
+No universo equestre, cavalo e cavaleiro são chamados de conjunto. A palavra traduz bem a essência do esporte: dois atletas trabalhando em perfeita sintonia.</p>
+    </section>
+    <section id="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58499.723007291854!2d-46.756275967367024!3d-23.595986495948498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce50b4e3a10df3%3A0xaadcae551bd7c9cb!2sSociedade%20Hipica%20Paulista!5e0!3m2!1spt-BR!2sbr!4v1789045114416!5m2!1spt-BR!2sbr" width="100%" style="height: 100vh; border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+    </section>
+    <section id="contact">
+        <h1>Contato</h1>
+        <form>
+            <label>Nome
+                <input type="Text" name="nome">
+            </label>
+            <label>E-mail
+                <input type="email" name="email">
+            </label>
+            <label>Mensagem
+                <textarea name="mensagem" rows="3"></textarea>
+            </label>
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+    </main>
+    <footer>
+        &copy; 2026 Todos os Direitos Reservados : Desenvolvido por:
+        <a href="mariaeduardaescobarcipriano@gmail.com">Maria Eduarda Escobar </a></footer>
+</body>
+</html>
