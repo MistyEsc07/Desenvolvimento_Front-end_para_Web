@@ -1,4 +1,4 @@
-## 📌Sobre o projeto
+# 📌Sobre o projeto
 
 Este projeto consiste no desenvolvimento de uma página web temática sobre o Dia Internacional da Música, comemorado em 1º de outubro. A proposta é apresentar a importância da música ao longo da história, destacando artistas, períodos históricos e sua influência cultural.
 
