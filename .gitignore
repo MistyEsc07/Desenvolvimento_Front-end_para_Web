@@ -1,0 +1,47 @@
+
+# Dependencias
+node_modules/
+bower_components/
+
+# Arquivos de compilacao e distribuicao
+dist/
+build/
+
+# Arquivos temporarios
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Configuracoes de editores
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+!.env.example
+secrets.json
+credentials.json
+
+# Cache
+.cache/
+.parcel-cache/
+.eslintcache/
+
+# Arquivos Python, caso utilizados
+__pycache__/
+*.py[cod]
+.venv/
+venv/
